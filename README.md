@@ -1,6 +1,6 @@
 # Variationa-Autoencoders-for-data-processing-in-single-cell-biology
 
-CRISPR Project
+##CRISPR Project
 
 - FAVABiogridORCS.ipynb
   
@@ -20,7 +20,7 @@ TF dosage sensitivity classification task execution / testing
   
 colab code for running scVI dimensionality reduction
 
-General
+##General
 
 - Images.ipynb
   
