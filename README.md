@@ -3,16 +3,25 @@
 CRISPR Project
 
 - FAVABiogridORCS.ipynb
+  
 BiogridORCS workflow and database / data investigation
 
 - AchillesMatrices.ipynb
+  
 Project Achilles data investugation and processing
 
-- Classifier.ipynb
-  TF dosage sensitivity classification task execution / testing
+scVI TF classification Project
 
-- Images.ipynb
-All images for final thesis were created in here
+- Classifier.ipynb
+  
+TF dosage sensitivity classification task execution / testing
 
 - scVI.ipynb
+  
 colab code for running scVI dimensionality reduction
+
+General
+
+- Images.ipynb
+  
+All images for final thesis were created in here
