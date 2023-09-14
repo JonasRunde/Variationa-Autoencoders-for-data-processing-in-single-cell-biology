@@ -10,7 +10,7 @@ BiogridORCS workflow and database / data investigation
   
 Project Achilles data investugation and processing
 
-scVI TF classification Project
+## scVI TF classification Project
 
 - Classifier.ipynb
   
